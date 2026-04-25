@@ -1,0 +1,6 @@
+{
+    "intelephense.stubs": [
+        "wordpress",
+        "woocommerce"
+    ]
+}
