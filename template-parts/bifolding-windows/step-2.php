@@ -55,7 +55,7 @@ $images_dir = get_stylesheet_directory_uri() . '/assets/images/bifolding-windows
                     <!-- 3 Panels Left -->
                     <div class="panel-option-card panel-3"
                         data-min-width="2001"
-                        data-max-width="2600"
+                        data-max-width="3250"
                         data-price-2001="1190"
                         data-price-2200="1190"
                         data-price-2400="1290"
@@ -81,7 +81,7 @@ $images_dir = get_stylesheet_directory_uri() . '/assets/images/bifolding-windows
                     <!-- 3 Panels Right -->
                     <div class="panel-option-card panel-3"
                         data-min-width="2001"
-                        data-max-width="2600"
+                        data-max-width="3250"
                         data-price-2001="1190"
                         data-price-2200="1190"
                         data-price-2400="1290"
@@ -106,7 +106,7 @@ $images_dir = get_stylesheet_directory_uri() . '/assets/images/bifolding-windows
 
                     <!-- ================== 4 PANELS ================== -->
                     <!-- 1 + 3 Panels -->
-                    <div class="panel-option-card panel-4"
+                    <!-- <div class="panel-option-card panel-4"
                         data-min-width="2601"
                         data-max-width="3400"
                         data-price-2601="1690"
@@ -127,10 +127,10 @@ $images_dir = get_stylesheet_directory_uri() . '/assets/images/bifolding-windows
                                 <span class="option-price">+ <span class="price-vat">(inc. VAT)</span></span>
                             </div>
                         </label>
-                    </div>
+                    </div> -->
 
                     <!-- 3 + 1 Panels -->
-                    <div class="panel-option-card panel-4"
+                    <!-- <div class="panel-option-card panel-4"
                         data-min-width="2601"
                         data-max-width="3400"
                         data-price-2601="1690"
@@ -151,12 +151,12 @@ $images_dir = get_stylesheet_directory_uri() . '/assets/images/bifolding-windows
                                 <span class="option-price">+ <span class="price-vat">(inc. VAT)</span></span>
                             </div>
                         </label>
-                    </div>
+                    </div> -->
 
                     <!-- 4 Panels Left -->
                     <div class="panel-option-card panel-4"
-                        data-min-width="2601"
-                        data-max-width="3400"
+                        data-min-width="3251"
+                        data-max-width="4000"
                         data-price-2601="1690"
                         data-price-3000="1790"
                         data-price-3400="1890">
@@ -179,8 +179,8 @@ $images_dir = get_stylesheet_directory_uri() . '/assets/images/bifolding-windows
 
                     <!-- 4 Panels Right -->
                     <div class="panel-option-card panel-4"
-                        data-min-width="2601"
-                        data-max-width="3400"
+                        data-min-width="3251"
+                        data-max-width="4000"
                         data-price-2601="1690"
                         data-price-3000="1790"
                         data-price-3400="1890">
@@ -203,7 +203,7 @@ $images_dir = get_stylesheet_directory_uri() . '/assets/images/bifolding-windows
 
                     <!-- ================== 5 PANELS ================== -->
                     <!-- 1 + 4 Panels -->
-                    <div class="panel-option-card panel-5"
+                    <!-- <div class="panel-option-card panel-5"
                         data-min-width="3401"
                         data-max-width="4200"
                         data-price-3401="2190"
@@ -224,10 +224,10 @@ $images_dir = get_stylesheet_directory_uri() . '/assets/images/bifolding-windows
                                 <span class="option-price">+ <span class="price-vat">(inc. VAT)</span></span>
                             </div>
                         </label>
-                    </div>
+                    </div> -->
 
                     <!-- 4 + 1 Panels -->
-                    <div class="panel-option-card panel-5"
+                    <!-- <div class="panel-option-card panel-5"
                         data-min-width="3401"
                         data-max-width="4200"
                         data-price-3401="2190"
@@ -248,12 +248,12 @@ $images_dir = get_stylesheet_directory_uri() . '/assets/images/bifolding-windows
                                 <span class="option-price">+ <span class="price-vat">(inc. VAT)</span></span>
                             </div>
                         </label>
-                    </div>
+                    </div> -->
 
                     <!-- 5 Panels Left -->
                     <div class="panel-option-card panel-5"
-                        data-min-width="3401"
-                        data-max-width="4200"
+                        data-min-width="4001"
+                        data-max-width="5800"
                         data-price-3401="2190"
                         data-price-3800="2290"
                         data-price-4200="2390">
@@ -276,8 +276,8 @@ $images_dir = get_stylesheet_directory_uri() . '/assets/images/bifolding-windows
 
                     <!-- 5 Panels Right -->
                     <div class="panel-option-card panel-5"
-                        data-min-width="3401"
-                        data-max-width="4200"
+                        data-min-width="4001"
+                        data-max-width="5800"
                         data-price-3401="2190"
                         data-price-3800="2290"
                         data-price-4200="2390">
@@ -299,7 +299,7 @@ $images_dir = get_stylesheet_directory_uri() . '/assets/images/bifolding-windows
                     </div>
 
                     <!-- ================== 6 PANELS ================== -->
-                    <!-- 2 + 4 Panels -->
+                    <!-- 2 + 4 Panels
                     <div class="panel-option-card panel-6"
                         data-min-width="4201"
                         data-max-width="5000"
@@ -321,10 +321,10 @@ $images_dir = get_stylesheet_directory_uri() . '/assets/images/bifolding-windows
                                 <span class="option-price">+ <span class="price-vat">(inc. VAT)</span></span>
                             </div>
                         </label>
-                    </div>
+                    </div> -->
 
                     <!-- 3 + 3 Panels -->
-                    <div class="panel-option-card panel-6"
+                    <!-- <div class="panel-option-card panel-6"
                         data-min-width="4201"
                         data-max-width="5000"
                         data-price-4201="2690"
@@ -345,10 +345,10 @@ $images_dir = get_stylesheet_directory_uri() . '/assets/images/bifolding-windows
                                 <span class="option-price">+ <span class="price-vat">(inc. VAT)</span></span>
                             </div>
                         </label>
-                    </div>
+                    </div> -->
 
                     <!-- 4 + 2 Panels -->
-                    <div class="panel-option-card panel-6"
+                    <!-- <div class="panel-option-card panel-6"
                         data-min-width="4201"
                         data-max-width="5000"
                         data-price-4201="2690"
@@ -369,9 +369,9 @@ $images_dir = get_stylesheet_directory_uri() . '/assets/images/bifolding-windows
                                 <span class="option-price">+ <span class="price-vat">(inc. VAT)</span></span>
                             </div>
                         </label>
-                    </div>
+                    </div> -->
 
-                    <!-- 6 Panels Left -->
+                    <!-- 6 Panels Left
                     <div class="panel-option-card panel-6"
                         data-min-width="4201"
                         data-max-width="5000"
@@ -393,10 +393,10 @@ $images_dir = get_stylesheet_directory_uri() . '/assets/images/bifolding-windows
                                 <span class="option-price">+ <span class="price-vat">(inc. VAT)</span></span>
                             </div>
                         </label>
-                    </div>
+                    </div> -->
 
                     <!-- 6 Panels Right -->
-                    <div class="panel-option-card panel-6"
+                    <!-- <div class="panel-option-card panel-6"
                         data-min-width="4201"
                         data-max-width="5000"
                         data-price-4201="2690"
@@ -417,10 +417,10 @@ $images_dir = get_stylesheet_directory_uri() . '/assets/images/bifolding-windows
                                 <span class="option-price">+ <span class="price-vat">(inc. VAT)</span></span>
                             </div>
                         </label>
-                    </div>
+                    </div> -->
 
                     <!-- ================== 7 PANELS ================== -->
-                    <!-- 1 + 6 Panels -->
+                    <!-- 1 + 6 Panels
                     <div class="panel-option-card panel-7"
                         data-min-width="5001"
                         data-max-width="5800"
@@ -442,10 +442,10 @@ $images_dir = get_stylesheet_directory_uri() . '/assets/images/bifolding-windows
                                 <span class="option-price">+ <span class="price-vat">(inc. VAT)</span></span>
                             </div>
                         </label>
-                    </div>
+                    </div> -->
 
                     <!-- 2 + 5 Panels -->
-                    <div class="panel-option-card panel-7"
+                    <!-- <div class="panel-option-card panel-7"
                         data-min-width="5001"
                         data-max-width="5800"
                         data-price-5001="3290"
@@ -466,10 +466,10 @@ $images_dir = get_stylesheet_directory_uri() . '/assets/images/bifolding-windows
                                 <span class="option-price">+ <span class="price-vat">(inc. VAT)</span></span>
                             </div>
                         </label>
-                    </div>
+                    </div> -->
 
                     <!-- 3 + 4 Panels -->
-                    <div class="panel-option-card panel-7"
+                    <!-- <div class="panel-option-card panel-7"
                         data-min-width="5001"
                         data-max-width="5800"
                         data-price-5001="3290"
@@ -490,10 +490,10 @@ $images_dir = get_stylesheet_directory_uri() . '/assets/images/bifolding-windows
                                 <span class="option-price">+ <span class="price-vat">(inc. VAT)</span></span>
                             </div>
                         </label>
-                    </div>
+                    </div> -->
 
                     <!-- 4 + 3 Panels -->
-                    <div class="panel-option-card panel-7"
+                    <!-- <div class="panel-option-card panel-7"
                         data-min-width="5001"
                         data-max-width="5800"
                         data-price-5001="3290"
@@ -514,10 +514,10 @@ $images_dir = get_stylesheet_directory_uri() . '/assets/images/bifolding-windows
                                 <span class="option-price">+ <span class="price-vat">(inc. VAT)</span></span>
                             </div>
                         </label>
-                    </div>
+                    </div> -->
 
                     <!-- 5 + 2 Panels -->
-                    <div class="panel-option-card panel-7"
+                    <!-- <div class="panel-option-card panel-7"
                         data-min-width="5001"
                         data-max-width="5800"
                         data-price-5001="3290"
@@ -538,10 +538,10 @@ $images_dir = get_stylesheet_directory_uri() . '/assets/images/bifolding-windows
                                 <span class="option-price">+ <span class="price-vat">(inc. VAT)</span></span>
                             </div>
                         </label>
-                    </div>
+                    </div> -->
 
                     <!-- 6 + 1 Panels -->
-                    <div class="panel-option-card panel-7"
+                    <!-- <div class="panel-option-card panel-7"
                         data-min-width="5001"
                         data-max-width="5800"
                         data-price-5001="3290"
@@ -562,10 +562,10 @@ $images_dir = get_stylesheet_directory_uri() . '/assets/images/bifolding-windows
                                 <span class="option-price">+ <span class="price-vat">(inc. VAT)</span></span>
                             </div>
                         </label>
-                    </div>
+                    </div> -->
 
                     <!-- 7 Panels Left -->
-                    <div class="panel-option-card panel-7"
+                    <!-- <div class="panel-option-card panel-7"
                         data-min-width="5001"
                         data-max-width="5800"
                         data-price-5001="3290"
@@ -586,10 +586,10 @@ $images_dir = get_stylesheet_directory_uri() . '/assets/images/bifolding-windows
                                 <span class="option-price">+ <span class="price-vat">(inc. VAT)</span></span>
                             </div>
                         </label>
-                    </div>
+                    </div> -->
 
                     <!-- 7 Panels Right -->
-                    <div class="panel-option-card panel-7"
+                    <!-- <div class="panel-option-card panel-7"
                         data-min-width="5001"
                         data-max-width="5800"
                         data-price-5001="3290"
@@ -610,7 +610,7 @@ $images_dir = get_stylesheet_directory_uri() . '/assets/images/bifolding-windows
                                 <span class="option-price">+ <span class="price-vat">(inc. VAT)</span></span>
                             </div>
                         </label>
-                    </div>
+                    </div> -->
 
                 </div>
             </div>
@@ -954,26 +954,20 @@ jQuery(document).ready(function($) {
         if (width >= 1600 && width <= 2000) {
             activeClass = 'panel-2';
         }
-        // Width: 2001mm - 2600mm → 3 panels
-        else if (width >= 2001 && width <= 2600) {
+        // Width: 2001mm - 3250mm → 3 panels
+        else if (width >= 2001 && width <= 3250) {
             activeClass = 'panel-3';
         }
-        // Width: 2601mm - 3400mm → 4 panels
-        else if (width >= 2601 && width <= 3400) {
+        // Width: 3251mm - 4000mm → 4 panels
+        else if (width >= 3251 && width <= 4000) {
             activeClass = 'panel-4';
         }
-        // Width: 3401mm - 4200mm → 5 panels
-        else if (width >= 3401 && width <= 4200) {
+        // Width: 4001mm - 5800mm → 5 panels
+        else if (width >= 4001 && width <= 5800) {
             activeClass = 'panel-5';
         }
-        // Width: 4201mm - 5000mm → 6 panels
-        else if (width >= 4201 && width <= 5000) {
-            activeClass = 'panel-6';
-        }
-        // Width: 5001mm - 5800mm → 7 panels
-        else if (width >= 5001 && width <= 5800) {
-            activeClass = 'panel-7';
-        }
+      
+       
 
         // Show only panels matching the active class
         if (activeClass) {
@@ -986,10 +980,6 @@ jQuery(document).ready(function($) {
                 updatePanel4Price(width);
             } else if (activeClass === 'panel-5') {
                 updatePanel5Price(width);
-            } else if (activeClass === 'panel-6') {
-                updatePanel6Price(width);
-            } else if (activeClass === 'panel-7') {
-                updatePanel7Price(width);
             }
         }
 

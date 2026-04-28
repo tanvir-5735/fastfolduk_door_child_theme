@@ -130,7 +130,7 @@ jQuery(document).ready(function($) {
         // Get pane quantity from panel selection (for calculation only, not for display)
         var paneQuantity = 1;
         
-        var selectedPanel = $('input[name="panel_layout"]:checked').val();
+        var selectedPanel = $('input[name="window_panel_layout"]:checked').val();
         if (selectedPanel) {
             if (selectedPanel === 'french') {
                 paneQuantity = 2;
@@ -232,7 +232,7 @@ jQuery(document).ready(function($) {
      */
     function getPaneCount() {
         var paneQuantity = 1;
-        var selectedPanel = $('input[name="panel_layout"]:checked').val();
+        var selectedPanel = $('input[name="window_panel_layout"]:checked').val();
         
         if (selectedPanel) {
             if (selectedPanel === 'french') {
